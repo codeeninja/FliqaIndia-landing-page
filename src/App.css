@@ -194,3 +194,15 @@
 .imgWidth{
   width: 130px;
 }
+
+
+.row{
+  width: 100%;
+    box-sizing: border-box;
+    margin: 0px;
+}
+
+.d-table-cell {
+  display: table-cell !important;
+  vertical-align: middle;
+}
